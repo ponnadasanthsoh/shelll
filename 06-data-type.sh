@@ -4,5 +4,5 @@
 NUMBER1=$1
 NUMBER2=$2
 
-sum=$(($NUMBER1+$NUMBER2))
-echo "tOTA :: $sum"
+SUM=$(($NUMBER1+$NUMBER2))
+echo "tOTA :: $SUM"
