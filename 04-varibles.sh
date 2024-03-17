@@ -2,8 +2,8 @@
 
 ## Arguments
 
-PERSON1=vara
-PERSON2=sriram
+PERSON1=$1
+PERSON2=$2
 
 echo "$PERSON1: Hello $PERSON2, GM"
 echo "$PERSON2: Hi $PERSON1, VGM"
