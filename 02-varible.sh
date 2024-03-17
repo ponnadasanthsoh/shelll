@@ -2,8 +2,8 @@
 
 ## 2nd trial
 
-PERSON1=Ramesh
-PERSON2=Suresh
+PERSON1=Ram
+PERSON2=Jaswik
 
 echo "$PERSON1: Hello $PERSON2, GM"
 echo "$PERSON2: Hi $PERSON1, VGM"
