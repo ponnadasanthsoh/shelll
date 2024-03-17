@@ -3,5 +3,5 @@
 
 DATE=$(date)
 
-echo "Date :${DATE}"
+echo "Date :$DATE"
 echo "Starting excuting time"
